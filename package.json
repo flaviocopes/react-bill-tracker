@@ -1,0 +1,30 @@
+{
+  "name": "react-course-bill-tracker-3",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "chart.js": "^2.7.3",
+    "moment": "^2.23.0",
+    "react": "16.7.0-alpha.2",
+    "react-chartjs-2": "^2.7.4",
+    "react-datepicker": "^2.0.0",
+    "react-dom": "16.7.0-alpha.2",
+    "react-moment": "^0.8.4",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
